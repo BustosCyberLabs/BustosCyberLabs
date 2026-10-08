@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://github.com/BustosCyberLabs/ai-assisted-triage-capstone">AI Triage Capstone</a> ·
   <a href="https://github.com/BustosCyberLabs/SystemSecurityScripts">Security Scripts</a> 
+  [ProjectPay Tracker](https://github.com/BustosCyberLabs/projectpay-tracker)
 </p>
 
 ---
