@@ -34,15 +34,33 @@ My focus is understanding how AI agents, tools, and workflows can be coordinated
 
 ### 🚀 Featured Projects
 
-**🧠 AI-Assisted Triage Capstone**  
-> AI-driven incident response simulation using NLP, LLMs, Python, and Bash.  
-> *[Skills: Python, NLP, Bash, Prompt Engineering]*  
+**🧠 AI-Assisted Triage Capstone**
+
+> AI-assisted incident response simulation exploring NLP, LLMs, and security triage workflows.
+>
+> **Technologies Used:** Python, Bash, NLP, LLMs, Prompt Engineering
+>
 > [View Project](https://github.com/BustosCyberLabs/ai-assisted-triage-capstone)
 
-**🧰 System Security Scripts**  
-> PowerShell and Python tools for security automation, hardening, and forensic triage.  
-> *[Skills: PowerShell, Python, Bash]*  
+**🧰 System Security Scripts**
+
+> PowerShell and Python tools exploring security automation, system hardening, and forensic triage.
+>
+> **Technologies Used:** PowerShell, Python, Bash
+>
 > [View Project](https://github.com/BustosCyberLabs/SystemSecurityScripts)
+
+**💼 ProjectPay Tracker — v1.0.0 (Released)**
+
+> A local-first freelance project and payment tracker built through AI-assisted development.
+>
+> **What I Practiced:** Requirements planning, application testing, dependency cleanup, backup validation, Git version control, and security-conscious release management.
+>
+> **Technologies Used:** React, TypeScript, Vite, Tailwind CSS
+>
+> [View Project](https://github.com/BustosCyberLabs/projectpay-tracker)
+>
+> [Live Demo](https://projectpay-tracker-1.ai.studio)
 
 ---
 
