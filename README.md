@@ -46,10 +46,11 @@ My focus is understanding how AI agents, tools, and workflows can be coordinated
 
 ---
 
-### 🔴 Red Teaming Projects (In Progress)
+### 🔴 Red Teaming & Secure AI Projects (Learning & Planning)
 
-I am actively developing tools and workflows focused on red teaming techniques, adversarial testing, and penetration testing automation.  
-Stay tuned for updates and releases in this section.
+Currently expanding my knowledge of red teaming, penetration testing, AI security, and secure agent orchestration through coursework and hands-on labs.
+My planned projects focus on threat hunting, application security, AI-assisted security assessments, and human-controlled agent workflows.
+**Guiding principle:** Unrestricted Thinking. Restricted Execution.
 
 ---
 
