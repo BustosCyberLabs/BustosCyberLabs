@@ -16,19 +16,19 @@ I'm exploring the intersection of cybersecurity, artificial intelligence, and se
 
 My focus is understanding how AI agents, tools, and workflows can be coordinated securely while maintaining human oversight, accountability, and controlled execution.
 
-Current Learning & Project Focus:
+### 🎯 Current Learning & Project Focus
 
-🛡️ AI security, LLM vulnerabilities, and adversarial testing
-🧠 Secure AI agent orchestration and workflow automation
-🔍 Threat intelligence, threat hunting, and incident response
-💻 AI-assisted software development and application security
-🔒 Local-first systems, least privilege, sandboxing, and audit logging
+- 🛡️ AI security, LLM vulnerabilities, and adversarial testing
+- 🧠 Secure AI agent orchestration and workflow automation
+- 🔍 Threat intelligence, threat hunting, and incident response
+- 💻 AI-assisted software development and application security
+- 🔒 Local-first systems, least privilege, sandboxing, and audit logging
 
-Guiding Principle:
+### 🛡️ My Guiding Principle
 
-Unrestricted Thinking. Restricted Execution.
+**Unrestricted Thinking. Restricted Execution.**
 
-Exploring what AI can accomplish while learning to establish the security boundaries that keep it accountable.
+*Exploring what AI can accomplish while learning to establish the security boundaries that keep it accountable.*
 
 ---
 
