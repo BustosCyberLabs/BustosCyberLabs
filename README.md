@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm David </h1>
-<h3 align="center">AI Incident Response · Security Automation · Red Teaming</h3>
+<h3 align="center">Cybersecurity Student | Military Intelligence Veteran | Exploring Secure AI Orchestration</h3>
 
 <p align="center">
   <a href="https://github.com/BustosCyberLabs/ai-assisted-triage-capstone">AI Triage Capstone</a> ·
@@ -10,12 +10,25 @@
 
 ### About
 
-Retired Marine and Army veteran now focused on cybersecurity with an emphasis on AI-augmented incident response, automation, and red team techniques. Bringing a disciplined, mission-driven approach to rapidly evolving security challenges, committed to continuous learning and impactful defense operations.
+Retired U.S. Marine Corps and Army veteran with a background in Geospatial Intelligence, operational leadership, and intelligence analysis. Currently pursuing a B.S. in Cybersecurity and Information Assurance at Western Governors University.
 
-Specializing in:
-- AI-driven triage & incident response with Python, Bash, and prompt engineering
-- Security automation and DFIR scripting using PowerShell, Bash, and Python
-- LLM security, adversarial testing, and workflow optimization
+I'm exploring the intersection of cybersecurity, artificial intelligence, and secure agent orchestration through hands-on learning and AI-assisted development.
+
+My focus is understanding how AI agents, tools, and workflows can be coordinated securely while maintaining human oversight, accountability, and controlled execution.
+
+Current Learning & Project Focus:
+
+🛡️ AI security, LLM vulnerabilities, and adversarial testing
+🧠 Secure AI agent orchestration and workflow automation
+🔍 Threat intelligence, threat hunting, and incident response
+💻 AI-assisted software development and application security
+🔒 Local-first systems, least privilege, sandboxing, and audit logging
+
+Guiding Principle:
+
+Unrestricted Thinking. Restricted Execution.
+
+Exploring what AI can accomplish while learning to establish the security boundaries that keep it accountable.
 
 ---
 
